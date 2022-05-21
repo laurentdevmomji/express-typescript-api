@@ -39,9 +39,8 @@ Express TypeScript API
    npm run dev
    ```
 3. Go to :
-```sh
-[http://localhost:8000/ping]
-    ```
+```sh http://localhost:8000/ping```
+
 ## Build Docker image locally
 
 ```sh
